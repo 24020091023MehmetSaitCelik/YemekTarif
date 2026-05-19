@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|c:\\users\\mehmet sait\\source\\repos\\yemektarif\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|c:\\users\\mehmet sait\\source\\repos\\yemektarif\\yonetim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|solutionrelative:yonetim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|c:\\users\\mehmet sait\\source\\repos\\yemektarif\\yonetim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|solutionrelative:yonetim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|c:\\users\\mehmet sait\\source\\repos\\yemektarif\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0272632C-78B1-4D3F-9B26-AAEA2DCCA26D}|yemekTarif.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yonetim.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Yonetim.aspx.cs",
+              "RelativeDocumentMoniker": "Yonetim.aspx.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Yonetim.aspx.cs",
+              "RelativeToolTip": "Yonetim.aspx.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAQwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T20:17:23.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yonetim.aspx",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Yonetim.aspx",
+              "RelativeDocumentMoniker": "Yonetim.aspx",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Yonetim.aspx",
+              "RelativeToolTip": "Yonetim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-19T20:17:07.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-19T20:14:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:28:03.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\yemekTarif\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T09:27:57.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
